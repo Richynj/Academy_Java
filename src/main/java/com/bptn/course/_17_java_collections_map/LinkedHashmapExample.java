@@ -19,7 +19,10 @@ public class LinkedHashmapExample {
 		
 		System.out.println(linkedHashMap);
 		
-		//
+		//Access the value in LinkedHashMap
+		System.out.println("Jane's age is"+ LinkedHashMap.get("Jane"));
+		
+		
 
 	}
 

@@ -30,6 +30,8 @@ public class HashMapExample {
 		//retrieve the age of John and print it to the console
 	System.out.println("Age of John is: "+ hashMap.get("John"));
 	
+	  //Update a value of existing key
+	hash.Map.replace
 		
 	}
 	
